@@ -1,0 +1,9 @@
+[
+  {"day": "Monday", "temperature_c": 22, "humidity_pct": 55, "condition": "Sunny"},
+  {"day": "Tuesday", "temperature_c": 25, "humidity_pct": 60, "condition": "Sunny"},
+  {"day": "Wednesday", "temperature_c": null, "humidity_pct": 80, "condition": "Rainy"},
+  {"day": "Thursday", "temperature_c": 18, "humidity_pct": 75, "condition": "Cloudy"},
+  {"day": "Friday", "temperature_c": 21, "humidity_pct": 50, "condition": "Sunny"},
+  {"day": "Saturday", "temperature_c": 26, "humidity_pct": 45, "condition": "Sunny"},
+  {"day": "Sunday", "temperature_c": 20, "humidity_pct": null, "condition": "Cloudy"}
+]
