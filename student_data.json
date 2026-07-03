@@ -1,26 +1,22 @@
-{
-    "Unnamed: 0":
+[
     {
-        "0":0,
-        "1":1,
-        "2":2,
-        "3":3,
-        "4":4
+        "name": "dheeraj",
+        "roll no": 101
     },
-    "Name ":
     {
-        "0":"Dheeraj",
-        "1":"Kunal",
-        "2":"Abhishek",
-        "3":"Praveen",
-        "4":"Anjali"
+        "name": "kunal",
+        "roll no": 102
     },
-    "Roll No":
     {
-        "0":101,
-        "1":102,
-        "2":103,
-        "3":104,
-        "4":105
+        "name": "abhishek",
+        "roll no": 103
+    },
+    {
+        "name": "praveen",
+        "roll no": 104
+    },
+    {
+        "name": "anjali",
+        "roll no": 105
     }
-}
+]
